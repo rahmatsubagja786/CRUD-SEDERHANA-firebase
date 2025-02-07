@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "616851712203",
+    "firebase_url": "https://myclass-123-default-rtdb.firebaseio.com",
+    "project_id": "myclass-123",
+    "storage_bucket": "myclass-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616851712203:android:f96ed6b8c4cf5e1256134e",
+        "android_client_info": {
+          "package_name": "com.rahmat.myuasti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBngCUoF85IIfvJjz02zo00uBD1XRix5Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
